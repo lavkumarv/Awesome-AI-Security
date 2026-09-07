@@ -314,7 +314,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Vector/Memory Store Security
 *Harden RAG memory: isolate namespaces, sanitize queries/content, detect poisoning/outliers, and prevent secret/PII retention.*
 
-- *(none from your current list yet)*
+- [memory-blackbox — @lavkumarv](https://github.com/lavkumarv/memory-blackbox) [![GitHub Repo stars](https://img.shields.io/github/stars/lavkumarv/memory-blackbox?logo=github&label=&style=social)](https://github.com/lavkumarv/memory-blackbox) — Tamper-evident provenance ledger for agent memory reads and writes; traces an action to its source memory, computes blast radius, and rolls back.
 
 ### Data/Model Poisoning Defenses
 *Detect and mitigate dataset/model poisoning and backdoors; validate training/fine-tuning integrity and prune suspicious behaviors.*
